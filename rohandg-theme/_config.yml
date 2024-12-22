@@ -1,8 +1,8 @@
 title: RohanDG Theme
 description: A simple Jekyll theme for personal blogs and portfolios.
-author: Your Name
-email: your.email@example.com
-url: https://yourwebsite.com
+author: Rohan de Graaf
+email: rohan@rohandg.com
+url: https://rohandg.com/
 baseurl: ""
 theme: rohandg-theme
 markdown: kramdown
